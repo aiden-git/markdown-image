@@ -1,0 +1,7 @@
+{
+    "token": "你的Github个人访问令牌",
+    "owner": "你的Github用户名",
+    "repo": "你的Github仓库名称",
+    "branch": "main",
+    "save_dir": "markdown_images"
+}
